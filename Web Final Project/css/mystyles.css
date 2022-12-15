@@ -1,0 +1,40 @@
+/*!
+CREATED CSS STYLES: 
+ */
+
+ body,
+ h1 {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ }
+
+ body,
+ html {
+     height: 100%
+ }
+
+ .bgimg {
+     background-image: url("../assets/img/Picture1.png");
+     min-height: 100%;
+     background-position: center;
+     background-size: cover;
+ }
+
+iframe
+{ 
+display: block !important;
+margin: 0 auto !important;
+}
+
+video {
+    margin-left: 50vw;
+    transform: translate(-50%);
+  }
+
+.centered {
+    display: block !important;
+    margin: auto !important;
+}
+
+body {
+    background-color: #DBF9FC;
+    }
